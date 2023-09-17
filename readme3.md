@@ -6,4 +6,6 @@ hello world !!!
 
 hi there this is fun
 
-learn git and github from zero to hero
+learn git and github from worst branch
+
+we are adding more information
